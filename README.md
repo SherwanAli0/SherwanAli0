@@ -11,6 +11,13 @@ Python developer building reliable AI and data systems, with projects in automat
 | [HalluScope](https://github.com/SherwanAli0/HalluScope) | A five-author replication of an entropy-based sentence-level hallucination score for large language models (IEEE BigComp 2025). |
 | [Recommender-System-Paper-Replication](https://github.com/SherwanAli0/Recommender-System-Paper-Replication) | A four-author replication of a fuzzy-signature recommender system (IEEE Access 2026) on MovieLens 100k. |
 
+## Related to the audit
+
+After the audit I explored an experimental ensemble extension of CSRBoost, an unpublished research prototype, and built a small web app around it.
+
+- [ERF-CSRBoost](https://github.com/SherwanAli0/erf-csrboost): the extension's code and documented evaluation, kept separate from the audit. The audit's results do not include it.
+- [FixYourDataset](https://fixyourdataset.fly.dev): a web app for examining class imbalance and comparing model behavior on your own data.
+
 ## Also public
 
 Course projects from the IBM AI Engineering Professional Certificate: rainfall prediction, waste classification, aircraft damage detection, plus small data-mining exercises.
