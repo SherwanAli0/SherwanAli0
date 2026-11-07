@@ -15,7 +15,7 @@ Python developer building reliable AI and data systems, with projects in automat
 
 After the audit I explored an experimental ensemble extension of CSRBoost, an unpublished research prototype, and built a small web app around it.
 
-- [ERF-CSRBoost](https://github.com/SherwanAli0/erf-csrboost): the extension's code and documented evaluation, kept separate from the audit. The audit's results do not include it. Its November evaluation adds 2,000 verified fits on five tasks; combined with 15 historical tasks, ERF has higher mean AP than reimplemented CSRBoost on 16/20. Ordinary-forest comparisons are mixed and compute cost is higher. [Results and limits](https://github.com/SherwanAli0/erf-csrboost/tree/main/research/results/november2026_aligned_extension).
+- [ERF-CSRBoost](https://github.com/SherwanAli0/erf-csrboost): resampled forest ensembles for imbalanced classification, with documented evaluation separate from the audit. The audit's results do not include it. Its November evaluation adds 2,000 verified fits on five datasets; combined with 15 historical datasets, ERF has higher mean AP than reimplemented CSRBoost on 16/20. Ordinary-forest comparisons are mixed and compute cost is higher. [Results and limits](https://github.com/SherwanAli0/erf-csrboost/tree/main/research/results/november2026_aligned_extension).
 - [FixYourDataset](https://fixyourdataset.fly.dev): a web app for examining class imbalance and comparing model behavior on your own data.
 
 ## Also public
